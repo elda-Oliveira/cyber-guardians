@@ -1,50 +1,53 @@
-# Welcome to your Expo app 👋
+# Cyber Guardians
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Cyber Guardians é um aplicativo educacional gamificado voltado para o ensino de cibersegurança.
 
-## Get started
+O objetivo do projeto é ajudar usuários a aprender conceitos de segurança digital através de missões, quizzes, conquistas, certificados e progressão por níveis.
 
-1. Install dependencies
+## Tecnologias Utilizadas
 
-   ```bash
-   npm install
-   ```
+* React Native
+* Expo
+* Expo Router
+* Firebase Authentication
+* Firebase Firestore
+* TypeScript
 
-2. Start the app
+## Funcionalidades
 
-   ```bash
-   npx expo start
-   ```
+* Cadastro e login de usuários
+* Recuperação de senha
+* Sistema de XP e níveis
+* Missões de cibersegurança
+* Trilhas de aprendizagem
+* Certificados por módulo
+* Tema claro e escuro
+* Perfil do usuário
+* Barra de progresso
 
-In the output, you'll find options to open the app in a
+## Como Executar
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Instale as dependências:
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+npm install
 
-## Get a fresh project
+Inicie o projeto:
 
-When you're ready, run:
+npx expo start
 
-```bash
-npm run reset-project
-```
+Para testar:
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+* Pressione "a" para abrir no Android Studio
+* Pressione "w" para abrir no navegador
+* Ou escaneie o QR Code com o Expo Go
 
-## Learn more
+## Módulos
 
-To learn more about developing your project with Expo, look at the following resources:
+* Fundamentos de Cibersegurança
+* Phishing e Engenharia Social
+* Criptografia
+* Segurança de Aplicações Web
+* Segurança de Redes
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## Autor
+Desenvolvido por Elda Oliveira como projeto educacional de aprendizagem em cibersegurança.
